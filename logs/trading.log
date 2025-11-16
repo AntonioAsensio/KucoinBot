@@ -1,0 +1,341 @@
+2025-01-06 23:07:44,179 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:09:45,469 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:11:47,626 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:13:48,869 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:15:50,827 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:29:57,773 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:31:59,112 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:34:01,281 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:36:02,502 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:38:03,757 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:40:04,998 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:42:06,230 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-06 23:58:14,211 - ERROR - Error placing sell order for PNDR/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 03:29:42,837 - ERROR - Error placing sell order for GRIFFAIN/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 03:44:48,869 - ERROR - Error placing sell order for WSDM/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 03:49:50,840 - ERROR - Error placing sell order for WSDM/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 03:54:53,019 - ERROR - Error placing sell order for WSDM/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 03:59:55,409 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 05:57:42,194 - ERROR - Error placing sell order for GRIFFAIN/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 06:12:47,204 - ERROR - Error placing sell order for GRIFFAIN/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 09:23:49,996 - ERROR - Error placing sell order for GRIFFAIN/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 09:28:52,168 - ERROR - Error placing sell order for GRIFFAIN/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 09:33:54,457 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 09:38:56,433 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 09:43:59,016 - ERROR - Error placing sell order for LAI/USDT: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 13:37:49,221 - ERROR - Error placing sell order for LAI/USDT: Failed to adjust precision: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 13:42:52,018 - ERROR - Error placing sell order for LAI/USDT: Failed to adjust precision: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 16:43:56,285 - ERROR - Error placing sell order for LAI/USDT: Failed to adjust precision: [<class 'decimal.ConversionSyntax'>]
+2025-01-07 19:26:49,796 - ERROR - Error placing sell order for LAI/USDT: Decimal conversion error: [<class 'decimal.ConversionSyntax'>]. Amount: 892.8672
+2025-01-07 19:57:01,543 - ERROR - Error placing sell order for LAI/USDT: Decimal conversion error: [<class 'decimal.ConversionSyntax'>]. Amount: 892.8672
+2025-01-07 20:02:03,617 - ERROR - Error placing sell order for LAI/USDT: Decimal conversion error: [<class 'decimal.ConversionSyntax'>]. Amount: 892.8672
+2025-01-07 21:44:50,937 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust precision: Invalid format specifier '.0.01f' for object of type 'float'
+2025-01-07 21:56:07,795 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: float() takes no keyword arguments
+2025-01-08 04:14:39,334 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-08 06:00:13,996 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-08 06:10:17,528 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-08 06:15:19,594 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-08 06:25:23,137 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-08 06:30:25,114 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-10 11:14:18,865 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Invalid amount for precision adjustment: 0.0
+2025-01-12 14:16:51,831 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 14:18:52,973 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 14:18:55,028 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 15:21:44,969 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 15:23:46,483 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 17:35:35,209 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.2 is below minimum limit 100.0.
+2025-01-12 17:39:40,864 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:31:08,907 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:33:11,481 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:35:13,954 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:37:16,310 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:37:17,268 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:39:18,212 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:39:19,134 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:41:20,053 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:41:20,960 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:43:21,919 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:43:22,822 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:45:23,766 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:45:24,680 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:47:26,204 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:49:27,800 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:51:30,047 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:53:31,606 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 18:55:32,551 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:57:34,402 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 18:59:35,938 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 19:29:58,057 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 19:46:11,373 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 20:00:20,709 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 20:02:22,294 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 20:04:23,847 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 20:06:25,430 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 20:12:30,154 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:14:31,919 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:16:33,473 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:18:36,083 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:20:37,827 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:40:51,356 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:42:52,941 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 20:42:54,172 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:44:56,609 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:46:59,119 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:49:01,021 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 20:55:05,054 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:17:25,583 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.4 is below minimum limit 100.0.
+2025-01-12 21:23:32,994 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 21:23:34,220 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:25:35,260 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 21:27:37,218 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 21:29:39,074 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 21:31:42,358 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 21:31:42,972 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-12 21:33:46,773 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 21:39:54,144 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:41:56,355 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:43:58,513 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:45:59,959 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:48:01,505 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:50:03,163 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:52:04,911 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.4 is below minimum limit 100.0.
+2025-01-12 21:52:06,103 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 21:58:10,113 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 22:13:00,056 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.3 is below minimum limit 100.0.
+2025-01-12 22:19:15,737 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:21:17,850 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:23:20,160 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:25:22,275 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:35:31,201 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.1 is below minimum limit 100.0.
+2025-01-12 22:37:33,574 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 36.7 is below minimum limit 100.0.
+2025-01-12 22:39:35,853 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 36.9 is below minimum limit 100.0.
+2025-01-12 22:39:37,647 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:41:39,741 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:43:32,486 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:45:10,059 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:47:13,153 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:49:13,249 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:51:15,638 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:53:17,773 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 22:59:23,782 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 23:01:25,870 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 23:03:28,167 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 23:05:31,291 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-12 23:15:42,930 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.2 is below minimum limit 100.0.
+2025-01-13 00:43:10,832 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.6 is below minimum limit 100.0.
+2025-01-13 00:45:13,506 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.8 is below minimum limit 100.0.
+2025-01-13 00:47:15,950 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.7 is below minimum limit 100.0.
+2025-01-13 00:49:18,448 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.7 is below minimum limit 100.0.
+2025-01-13 00:51:21,641 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.7 is below minimum limit 100.0.
+2025-01-13 00:53:24,049 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.7 is below minimum limit 100.0.
+2025-01-13 00:55:26,477 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.7 is below minimum limit 100.0.
+2025-01-13 00:59:26,972 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.6 is below minimum limit 100.0.
+2025-01-13 01:01:29,478 - ERROR - Error placing buy order for OPAI/USDT: Failed to adjust amount and precision: Adjusted amount 37.4 is below minimum limit 100.0.
+2025-01-13 01:29:03,443 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:31:05,612 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:33:07,672 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:35:09,688 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:37:11,877 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:39:14,070 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:49:21,292 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:51:24,054 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:53:26,128 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:55:29,875 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:57:31,968 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 01:59:34,100 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 02:01:36,518 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 02:03:39,610 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 03:01:41,410 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 03:13:54,902 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:15:56,893 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:17:58,360 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:20:00,024 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:22:01,693 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:24:03,868 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:26:05,425 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:28:06,954 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 03:54:27,216 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:08:38,630 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:10:40,698 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:12:43,098 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:14:44,504 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:16:46,056 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:18:48,355 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:20:49,987 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:22:51,658 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:37:00,945 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:39:03,638 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:41:05,662 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:43:07,822 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:45:10,330 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:47:12,808 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:49:14,972 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:51:17,137 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:53:18,991 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:55:20,539 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:57:22,055 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 04:59:23,690 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:01:26,031 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:03:27,794 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:05:29,306 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:07:31,364 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:09:33,528 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:11:35,588 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:13:37,654 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:15:39,208 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:17:40,637 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:19:42,025 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:21:43,623 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:29:48,614 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:31:50,489 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:33:52,326 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:35:54,900 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:37:57,368 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:39:59,850 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:42:01,902 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:42:03,536 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 05:44:04,474 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:46:06,638 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:48:08,802 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:50:10,842 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 05:52:12,924 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 06:06:26,721 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:08:28,236 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:10:30,242 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:12:32,515 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:14:34,869 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:16:36,349 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:18:38,384 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:20:40,954 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:22:43,320 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:24:45,645 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:26:47,746 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:40:56,634 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:55:08,490 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:57:09,911 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 06:59:11,609 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:01:13,165 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:03:15,220 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:19:29,048 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:37:41,456 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:39:42,901 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:41:44,445 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:43:45,933 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:45:47,440 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:47:49,198 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:49:50,727 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:51:52,294 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 07:53:53,834 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 08:10:09,911 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:12:11,979 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:14:13,855 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:14:15,064 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 08:16:15,908 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:16:17,113 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 08:18:18,010 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:20:19,618 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:30:32,104 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:32:34,227 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:34:36,494 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:36:38,662 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:38:40,930 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:40:45,135 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:42:48,423 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 08:50:56,001 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:28:51,707 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:35:00,229 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 09:37:02,007 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:39:04,556 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:41:07,025 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:41:07,842 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 09:43:10,317 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 09:43:11,246 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 09:45:12,424 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 09:45:13,920 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 09:47:15,155 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 09:47:17,516 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 09:49:18,753 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 09:51:22,350 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 09:53:25,899 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:18:07,052 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:20:09,337 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:22:11,824 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:24:14,405 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:26:17,852 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:28:20,337 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 10:44:40,518 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 10:46:42,887 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 10:52:49,939 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 10:54:52,983 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 11:05:06,130 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 11:07:08,510 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 11:09:10,982 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 11:32:33,857 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:36:36,449 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:40:39,027 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:44:41,806 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:48:44,413 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:48:45,332 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 11:52:47,201 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:52:48,107 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 11:56:50,816 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 11:56:51,725 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 12:00:54,022 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:04:56,600 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:04:57,535 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 12:08:59,383 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:13:02,269 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:21:07,753 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:25:10,343 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:29:12,928 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 12:33:14,807 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 12:37:17,813 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 12:41:20,292 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 12:45:23,274 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-13 13:01:37,201 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 13:05:40,494 - ERROR - Error placing sell order for ICE/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 100.0.
+2025-01-13 14:10:34,023 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:14:37,588 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:18:42,096 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:22:45,692 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:39:00,223 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:43:03,773 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 14:47:07,172 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-13 15:07:21,561 - ERROR - Error placing sell order for WSDM/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 02:42:42,201 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 02:46:43,557 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 02:50:44,812 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 02:54:46,068 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 02:58:47,323 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 03:43:00,220 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 03:59:07,172 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 04:03:08,359 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 04:07:09,575 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 04:11:10,819 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 04:31:16,390 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 04:35:17,842 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 04:51:23,071 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:21:31,559 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:25:32,815 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:29:34,172 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:33:35,427 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:37:36,681 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:37:37,288 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 05:41:38,244 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:41:38,825 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 05:45:39,683 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:45:41,028 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 05:49:41,982 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:49:42,693 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 05:53:44,467 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:53:45,076 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 05:57:46,028 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 05:57:46,847 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 06:49:59,474 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 06:54:00,831 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 06:54:01,439 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 06:58:02,393 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 06:58:03,000 - ERROR - Error placing sell order for XTAG/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 07:06:05,005 - ERROR - Error placing sell order for GRIFFAIN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 1.0.
+2025-01-14 07:18:08,257 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
+2025-01-14 07:22:09,610 - ERROR - Error placing sell order for DEGEN/USDT: Failed to adjust amount and precision: Adjusted amount 0.0 is below minimum limit 10.0.
